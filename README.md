@@ -1,4 +1,6 @@
- ## *Hello there* 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
+## *Hello there* 👋
 
 <!--
 **nikita040/nikita040** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
