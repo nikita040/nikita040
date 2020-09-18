@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="https://github.com/nikita040/nikita040/blob/master/Assets/71-YRe%2B2HpL.jpg" width=500 height=100>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
 ## *Hello there* 👋
 
