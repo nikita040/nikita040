@@ -9,4 +9,6 @@ Striving to maintain the perfect balance between `It doesn't work...! Why?` vs `
 
 ## Connect with Me 🤝🏻
 
-<a href="https://www.linkedin.com/in/nikita-rani/"><img alt="LinkedIn" src="https://github.com/nikita040/nikita040/blob/master/Assets/download.jpg></a>
+<a href="https://www.linkedin.com/in/nikita-rani/">
+  <img align="left" alt="Nikita rani linkedin" width="21px" src="https://github.com/nikita040/nikita040/blob/master/Assets/download.jpg" />
+</a>
